@@ -1,0 +1,51 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2017,2018,2019,2020,2021,2022
+" ""01000""",Alabama,5,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,216615.5,220808.8,224944.6,222081.4,231892.6,235807.3
+" ""02000""",Alaska,8,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,53550.9,52479.6,52325.3,50344.6,51021.8,50315.1
+" ""04000""",Arizona,6,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,333099,346398.3,359645.7,362603.5,390805.2,403474.2
+" ""05000""",Arkansas,5,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,123882.6,126371.2,127216,128061.2,135568.8,137355.5
+" ""06000""",California,8,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,2740550.3,2850970.3,2962792.1,2925146.9,3146185.3,3167460.8
+" ""08000""",Colorado,7,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,350209.1,365204.5,383596,380921.9,406961.5,416114.4
+" ""09000""",Connecticut,1,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,273875.1,274582.8,274219.4,258625,268846.7,276668.8
+" ""10000""",Delaware,2,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,69555.6,70856.4,74597.4,72550.3,74436.7,75172.6
+" ""12000""",Florida,5,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,1014866.9,1050433.8,1079271,1068377.5,1164778.2,1218430.2
+" ""13000""",Georgia,5,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,583543.3,600934.7,620792.4,602321.8,639236,655827.3
+" ""15000""",Hawaii,8,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,87436.4,88836.4,88945.3,79592.5,84121.5,85211.4
+" ""16000""",Idaho,7,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,72935.1,77652.1,81261.3,82818.6,87992.9,91683.7
+" ""17000""",Illinois,3,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,832826.8,851517.2,857985,810210.1,852749.1,864170.9
+" ""18000""",Indiana,3,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,357535.8,368762.9,371044.5,359184.7,384051,396009.2
+" ""19000""",Iowa,4,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,187125,189245.1,188318.4,187136.7,198470.8,197846.3
+" ""20000""",Kansas,4,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,166273.6,169796.9,170351.7,168540.8,172839.8,174794.6
+" ""21000""",Kentucky,5,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,203564,205940.1,211739.7,206288.8,214565.1,217568.1
+" ""22000""",Louisiana,5,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,239830.7,245220.3,246361.1,228825.3,234014.4,231262.3
+" ""23000""",Maine,1,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,63000.6,64806.3,66351.2,67420.6,70869.9,72413.5
+" ""24000""",Maryland,2,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,399714.5,402480.9,402346.2,388532.3,405905.3,412282.6
+" ""25000""",Massachusetts,1,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,530129.4,549262.1,566706.2,556196.4,591911.5,604357.7
+" ""26000""",Michigan,3,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,505101.5,516843,517845.2,502483.7,531500,539898.2
+" ""27000""",Minnesota,4,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,354721.9,364799.7,368688.7,358127.2,374733.3,379111.5
+" ""28000""",Mississippi,5,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,110281.4,110174.8,110537.9,109894.1,114198.5,114152.9
+" ""29000""",Missouri,4,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,311273.8,314182.4,320880.8,315276.2,330117.5,336625.8
+" ""30000""",Montana,7,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,48470.5,49455,50318.9,50159.6,52952,53983.4
+" ""31000""",Nebraska,4,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,123219.9,125543.4,127481.8,126890.6,133495.7,137078.1
+" ""32000""",Nevada,8,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,163199.1,168638.5,175771.3,165793.9,181102.9,187226.2
+" ""33000""",New Hampshire,1,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,81179.6,82269.5,84031.2,83182.1,89890.1,90150.5
+" ""34000""",New Jersey,2,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,590086.7,606892.2,617110.7,595973.4,629011.3,646731.3
+" ""35000""",New Mexico,6,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,93210.1,96077,100446.2,97511.9,99572.3,101315
+" ""36000""",New York,2,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,1624800.7,1665186.8,1709750.7,1650567.2,1724472.2,1763524.6
+" ""37000""",North Carolina,5,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,546810.1,556573.7,568475.6,564794.4,597316.1,609058.2
+" ""38000""",North Dakota,4,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,56530.2,58516.4,59142.3,55699.1,55401,54798.7
+" ""39000""",Ohio,3,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,652187.5,656212,674123.4,654586.3,686206.4,689681.3
+" ""40000""",Oklahoma,6,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,192538.6,196030.5,199462.1,190751.7,193518,191583
+" ""41000""",Oregon,8,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,225534.5,234308.3,239910.5,237670.4,250099.4,254708.4
+" ""42000""",Pennsylvania,2,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,754318,763855.4,772529.5,736470.6,764601.6,772335.9
+" ""44000""",Rhode Island,1,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,58771.6,58740.1,59866.6,58155.2,60777.3,62190.9
+" ""45000""",South Carolina,5,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,224937.6,231663.3,237511.4,233712.3,244854,250873.4
+" ""46000""",South Dakota,4,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,51615.1,51937.8,52360.1,52692.1,55140.4,54959.3
+" ""47000""",Tennessee,5,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,355417.5,362363.7,370088.3,366555.2,396576.2,412101.3
+" ""48000""",Texas,6,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,1667313,1746543.3,1802912.8,1772185.6,1873473.4,1924007.5
+" ""49000""",Utah,7,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,172075,182106,192698.7,194753.7,209975.2,213898.3
+" ""50000""",Vermont,1,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,32589.2,32827.8,33207.6,32307.1,33860.8,34609.4
+" ""51000""",Virginia,5,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,515167.2,527767.5,541070.2,533828.3,562888,576964.3
+" ""53000""",Washington,8,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,527169.4,561785.7,588930.4,590401,630819.8,641143.6
+" ""54000""",West Virginia,5,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,75172.4,77406.5,76786.6,73952.9,75520.5,76525.5
+" ""55000""",Wisconsin,3,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,321886.8,328832.4,333698.6,322972.7,334517.3,335688.5
+" ""56000""",Wyoming,7,SAGDP1,1,...,Real GDP (millions of chained 2017 dollars) 1/,Millions of chained 2017 dollars,37620.3,37977.2,38558.2,36181.3,36929.5,37294.2
